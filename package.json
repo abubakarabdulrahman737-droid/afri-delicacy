@@ -12,10 +12,12 @@
   "dependencies": {
     "@prisma/client": "latest",
     "@radix-ui/react-slot": "latest",
+    "argon2": "latest",
     "class-variance-authority": "latest",
     "clsx": "latest",
     "lucide-react": "latest",
     "next": "latest",
+    "next-auth": "latest",
     "react": "latest",
     "react-dom": "latest",
     "tailwind-merge": "latest",
